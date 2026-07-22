@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Suryansh Gupta
 
-I am an Engineering student graduating in 2026 with a deep passion in technology. I am trying to break into competitive programming and I'm currently learning  Data Science and Machine Learning.<br><br>
+I am a Mechanical Engineering Graduate having interests inclining towards machine learning algorithms and artificial intelligence.<br><br>
+I'm currently learning neural networks and generative AI.<br><br>
 
 # 💻 Technical Toolbox<br>
 -Languages: C++ (DSA), Python (Data Science, AI/ML), SQL.<br><br>-Data Science & AI: NumPy, Pandas, Scikit-learn, PyTorch, Tensorflow, NLP.<br><br>-Developer Tools: Git, GitHub, VS Code.<br><br>
